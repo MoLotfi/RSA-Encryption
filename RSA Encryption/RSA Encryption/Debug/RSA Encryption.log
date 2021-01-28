@@ -1,0 +1,47 @@
+﻿Build started 12/2/2020 11:14:21 PM.
+     1>Project "D:\The New Deal\Computer Science\Programming\Semi final project encrypt\Semi final project encrypt\Semi final project encrypt.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\New computer\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "semi-encrypt.cpp"
+         semi-encrypt.cpp
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(18): warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(26): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(29): warning C4244: 'argument' : conversion from '__int64' to 'int', possible loss of data
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(30): warning C4244: '=' : conversion from 'float' to '__int64', possible loss of data
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(37): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(56): warning C4244: 'return' : conversion from '__int64' to 'int', possible loss of data
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(87): warning C4244: 'initializing' : conversion from 'double' to '__int64', possible loss of data
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(90): warning C4244: 'argument' : conversion from '__int64' to 'int', possible loss of data
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(90): warning C4244: 'return' : conversion from '__int64' to 'int', possible loss of data
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(113): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(130): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(132): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(141): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(180): warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(212): warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(217): warning C4244: 'argument' : conversion from '__int64' to 'int', possible loss of data
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(217): warning C4244: 'argument' : conversion from 'const __int64' to 'int', possible loss of data
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(246): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(247): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(252): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(253): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(255): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(255): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(283): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(307): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(334): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(374): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(402): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(419): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(431): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(446): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(447): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(452): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\the new deal\computer science\programming\semi final project encrypt\semi final project encrypt\semi-encrypt.cpp(470): warning C4101: 'c' : unreferenced local variable
+       Link:
+         D:\New computer\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\The New Deal\Computer Science\Programming\Semi final project encrypt\Debug\Semi final project encrypt.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\The New Deal\Computer Science\Programming\Semi final project encrypt\Debug\Semi final project encrypt.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\The New Deal\Computer Science\Programming\Semi final project encrypt\Debug\Semi final project encrypt.lib" /MACHINE:X86 "Debug\semi-encrypt.obj"
+         Semi final project encrypt.vcxproj -> D:\The New Deal\Computer Science\Programming\Semi final project encrypt\Debug\Semi final project encrypt.exe
+     1>Done Building Project "D:\The New Deal\Computer Science\Programming\Semi final project encrypt\Semi final project encrypt\Semi final project encrypt.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.92
